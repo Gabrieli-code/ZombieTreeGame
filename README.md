@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O projeto Sobrevivência Zumbi foi desenvolvido para a disciplina de Estrutura de Dados com o objetivo de demonstrar a aplicação da estrutura Árvore Binária de Decisão em um sistema interativo.
+O projeto Sobrevivência Zumbi foi desenvolvido para a disciplina de Algoritmo e Estrutura de Dados com o objetivo de demonstrar a aplicação da estrutura Árvore Binária de Decisão em um sistema interativo.
 
 O jogo apresenta perguntas ao usuário, que deve responder utilizando as opções "Sim" ou "Não". Cada resposta conduz a um caminho diferente da árvore até alcançar um resultado final.
 
